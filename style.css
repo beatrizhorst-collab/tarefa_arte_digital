@@ -1,12 +1,12 @@
 body {
-    background-color:pink 
+    background-color:rgb(255, 192, 241) 
     color: #222222;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: #6b2d5c;
+    background-color: #e774ca;
     color:white;
     text-align: center;
     padding: 30px;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color:#6b2d5c;
+    color:#f3c6e8;
 }
 
 p {
@@ -32,7 +32,7 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
-    background-color: #9b4d83;
+    background-color: #c48ab3;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #c77dff;
+    background-color: #eeb3ee;
 }
 
 main {
@@ -64,9 +64,9 @@ img{
 }
 
 figcaption {
-    text-lign: center;
+    text-align: center;
     font-size: 14px;
-    color: #555555;
+    color: #e97dd2;
     margin-top: 8px;
 }
 
@@ -74,7 +74,7 @@ card {
     background-color: #f3d9fa;
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #6b2d5c;
+    border-left: 6px solid #da95c8;
     border-radius: 10px;
 }
 
@@ -82,7 +82,7 @@ card h3 {
     margin-top: 0;
 }
 footer {
-    background-color: #6b2d5c;
+    background-color: #f7bae8;
     color: white;
     text-align: center;
     padding: 20px;
