@@ -1,12 +1,12 @@
 body {
-    background-color:rgb(203, 255, 192); 
-    color:#e774ca;
+    background-color:white; 
+    color:black;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: #e774ca;
+    background-color: #eb77ce;
     color:white;
     text-align: center;
     padding: 30px;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color:#f3c6e8;
+    color:black;
 }
 
 p {
@@ -49,7 +49,7 @@ main {
 }
 
 section {
-    background-color: whitesmoke;
+    background-color: white;
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
@@ -71,7 +71,7 @@ figcaption {
 }
 
 card { 
-    background-color: #f3d9fa;
+    background-color: white;
     padding: 15px;
     margin: 15px 0;
     border-left: 6px solid #da95c8;
