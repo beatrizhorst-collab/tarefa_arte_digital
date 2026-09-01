@@ -1,13 +1,13 @@
 body {
-    background-color:white; 
-    color:black;
+    background-color:#f4f1ea; 
+    color:#222222;
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: #eb77ce;
-    color:white;
+    background-color: #014e1e;
+    color: #fffefc;
     text-align: center;
     padding: 30px;
 }
@@ -32,7 +32,7 @@ nav {
 nav a {
     color: white;
     text-decoration: none;
-    background-color: #c48ab3;
+    background-color: #014e1e;
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #eeb3ee;
+    background-color: #014e1e;
 }
 
 main {
@@ -74,7 +74,7 @@ card {
     background-color: white;
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid #da95c8;
+    border-left: 6px solid #014e1e;
     border-radius: 10px;
 }
 
