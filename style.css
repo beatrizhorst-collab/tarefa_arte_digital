@@ -1,13 +1,13 @@
 :root{
     --cor-fundo:#f4f1ea;  
     --cor-texto:#222222;    
-    --cor-principal:#014e1e;  
-    --cor-secundaria:#014e1e;
-    --cor-hover:#014e1e;
-    --cor-superficie:white;
-    --cor-card:#014e1e; 
-    --cor-legenda:#555555; 
-    --cor-clara: #014e1e;
+    --cor-principal:#380212;  
+    --cor-secundaria:#4e0101;
+    --cor-hover:#5f0606;
+    --cor-superficie:rgb(241, 222, 222);
+    --cor-card:#68040471; 
+    --cor-legenda:#c2bdbde5; 
+    --cor-clara:#f3e2e2;
     --cor-ropade:#222222;
 }
 body {
@@ -86,7 +86,7 @@ figcaption {
     background-color: var(--cor--card);
     padding: 15px;
     margin: 15px 0;
-    border-left: 6px solid var(--cor-principal)
+    border-left: 6px solid var(--cor-principal);
     border-radius: 10px;
 }
 
